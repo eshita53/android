@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weight Converter</string>
+    <string-array name="unit_list">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Once</item>
+    </string-array>
+
+</resources>
